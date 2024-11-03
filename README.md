@@ -1,2 +1,1 @@
 # classify_images_of_clothing
-# classify_images_of_clothing
